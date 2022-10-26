@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Portfolio App</string>
+    <string name="lorem_text"><b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </string>
+    <string name="job_name"><b><i>Android Developer</i></b></string>
+    <string name="lorem_text2"><b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</string>
+    <string name="name"><b>Ladoshko Ksenia</b></string>
+    <string name="current_job_post">Contacts</string>
+    <string name="diploma">Education</string>
+    <string name="tech"><b>Skills</b>\n
+Kotlin; Java; MVVM; View Model; View Binding; Glide; Retrofit; Rest Api; Google Api; Jetpack Compose; Kotlin Coroutines; Navigation Components; Dagger Hilt; Koin; Room; UI/UX Design; RxJava; RxAndroid.</string>
+    <string name="contacts">-<b>Telegram:</b> @Ksu_lad \n
+    -<b>Phone:</b> +38(098)–738-08-89</string>
+    <string name="education"> <b>January 2022 - May 2022</b> Oxford English Course(B1)\n
+    <b>2020 - 2021</b> ZNTU "Computer Engineering"</string>
+    <string name="languages">Languages</string>
+    <string name="language">English - B1</string>
+    <string name="exp_1">Use technologies: <b>Kotlin; Java; MVVM; View Model; View Binding; Glide; Retrofit; Rest Api; Google Api; Jetpack Compose; Kotlin Coroutines; Navigation Components; Dagger Hilt; Koin; Room; UI/UX Design; RxJava; RxAndroid.</b>\n
+    Projects: \n
+    1. <b>GPS</b> - an application where you can make the path from the starting point to the final.\n
+    2. <b>Wallpaper</b> - an application where you can find wallpapers for you smartphone for every taste.</string>
+    <string name="exp_2">About expierence: \n
+    -fix bags in project;\n
+    -reduction of lines of code;\n
+    -transfer from Java to Kotlin.</string>
+    <string name="zno">The application is a directory that helps graduates 11 classes prepare for the exam in the Ukrainian language and literature.</string>
+    <string name="histology">An application that helps students of medical universities structuring knowledge of histology.The directory contains all the necessary terms to study this item.It is possible to add to "Favorites" and also has a section with the necessary contractions of terms.</string>
+    <string name="to_do">The application is notepad for records of your ideas, affairs and thoughts. Always at hand. Comfortable and understandable interface and easy use.</string>
+</resources>
